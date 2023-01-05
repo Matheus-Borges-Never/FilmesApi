@@ -9,10 +9,6 @@ Uma API de filmes, com a qual que conseguiremos cadastrar filmes, além de recup
 
 As ferramentas necessaria para rodar o projeto são:
 
-```
-Dar exemplos
-```
-
 E repita:
 
 ```
@@ -38,4 +34,4 @@ Abra o Postman e use a url: https://localhost:7126/Filme/
 
 
 ---
-⌨️ com ❤️ por [Matheus Borges](https://github.com/Matheus-Borges-Never) 😊
+⌨️ com ❤️ por [Matheus Borges](https://github.com/Matheus-Borges-Never) 
