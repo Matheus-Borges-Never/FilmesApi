@@ -9,8 +9,6 @@ Uma API de filmes, com a qual que conseguiremos cadastrar filmes, além de recup
 
 As ferramentas necessaria para rodar o projeto são:
 
-```
-'''
 Visual Studio Community 2022
 MySQL 8.0.31
 Postman
